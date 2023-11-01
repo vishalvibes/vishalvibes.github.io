@@ -38,3 +38,4 @@ permalink: /bookshelf
 - [Numberphile](https://www.youtube.com/@numberphile)
 - [Mental Models - Blog](https://fs.blog/mental-models/)
 - [You and Your Research - Blog](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+- [Striking Thoughts: Bruce Lee's Wisdom for Daily Living](https://www.goodreads.com/en/book/show/259311)
