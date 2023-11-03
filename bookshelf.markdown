@@ -7,11 +7,13 @@ title: Bookshelf
 permalink: /bookshelf
 ---
 
+- [Striking Thoughts: Bruce Lee's Wisdom for Daily Living](https://www.goodreads.com/en/book/show/259311)
 - [Quantum Mechanics: The Theoretical Minimum](https://www.goodreads.com/el/book/show/18210750-quantum-mechanics)
 - [Radical Candor](https://www.goodreads.com/en/book/show/29939161)
 - [The AI Revolution: The Road to Superintelligence - Blog](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 - [Tao Te Ching](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)
 - [How to Do What You Love, Paul Graham - Blog](http://www.paulgraham.com/love.html)
+- [Shrimad Bhagavad Gita](https://www.goodreads.com/en/book/show/18857357)
 - [The 48 Laws of Power](https://www.goodreads.com/en/book/show/1303)
 - [Introduction to Algorithms](https://www.goodreads.com/en/book/show/108986)
 - [Reality Transurfing](https://www.goodreads.com/en/book/show/23929658)
@@ -38,4 +40,3 @@ permalink: /bookshelf
 - [Numberphile](https://www.youtube.com/@numberphile)
 - [Mental Models - Blog](https://fs.blog/mental-models/)
 - [You and Your Research - Blog](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-- [Striking Thoughts: Bruce Lee's Wisdom for Daily Living](https://www.goodreads.com/en/book/show/259311)
