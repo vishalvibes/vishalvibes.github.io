@@ -24,7 +24,7 @@ permalink: /bookshelf
 - [The Book of Five Rings](https://www.goodreads.com/book/show/867247.A_Book_of_Five_Rings)
 - [Advice, Patrick Collison - Blog](https://patrickcollison.com/advice)
 - [How to be Successful, Sam Altman - Blog](https://blog.samaltman.com/how-to-be-successful)
-- [The secret to Keeping Agency Clients Forever - Video](https://www.youtube.com/watch?v=AZ8EWj5B8Z0)
+- [The Secret to Keeping Agency Clients Forever - Video](https://www.youtube.com/watch?v=AZ8EWj5B8Z0)
 - [The Well-Spoken Thesaurus](https://www.goodreads.com/en/book/show/10638695)
 - [रामराज्य](https://www.goodreads.com/en/book/show/55926363)
 - [Stillness Is the Key](https://www.goodreads.com/book/show/43582733-stillness-is-the-key)
