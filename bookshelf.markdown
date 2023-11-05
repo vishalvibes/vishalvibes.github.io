@@ -41,3 +41,4 @@ permalink: /bookshelf
 - [Numberphile - YouTube Channel](https://www.youtube.com/@numberphile)
 - [Mental Models - Blog](https://fs.blog/mental-models/)
 - [You and Your Research - Blog](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+- [What Do You Care What Other People Think?](https://www.goodreads.com/en/book/show/35167718)
