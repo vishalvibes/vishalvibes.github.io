@@ -43,3 +43,4 @@ permalink: /bookshelf
 - [You and Your Research - Blog](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 - [What Do You Care What Other People Think?](https://www.goodreads.com/en/book/show/35167718)
 - [The Day You Became A Better Writer - Blog](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
+- [The Last Question - Short Story](https://users.ece.cmu.edu/~gamvrosi/thelastq.html)
