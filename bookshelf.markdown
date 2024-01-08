@@ -19,6 +19,8 @@ permalink: /bookshelf
 - [Introduction to Algorithms - MIT OCW - Course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [Functional Programming in Scala Specialization - Course](https://www.coursera.org/specializations/scala)
 - [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/en/book/show/530415)
+- [Poor Charlie's Almanack](https://www.goodreads.com/en/book/show/944652)
+
 - [Machine Learning Specialization - Course](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Scalability & System Design for Developers - Course](https://www.educative.io/path/scalability-system-design)
 - [Problems in general physics](https://www.goodreads.com/book/show/231633.Problems_in_general_physics?ref=rae_1)
