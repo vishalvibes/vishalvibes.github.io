@@ -20,7 +20,7 @@ permalink: /bookshelf
 - [Functional Programming in Scala Specialization - Course](https://www.coursera.org/specializations/scala)
 - [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/en/book/show/530415)
 - [Poor Charlie's Almanack](https://www.goodreads.com/en/book/show/944652)
-
+- [Ogilvy on Advertising](https://www.goodreads.com/book/show/641601.Ogilvy_on_Advertising)
 - [Machine Learning Specialization - Course](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Scalability & System Design for Developers - Course](https://www.educative.io/path/scalability-system-design)
 - [Problems in general physics](https://www.goodreads.com/book/show/231633.Problems_in_general_physics?ref=rae_1)
