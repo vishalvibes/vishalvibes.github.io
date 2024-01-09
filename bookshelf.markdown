@@ -33,6 +33,7 @@ permalink: /bookshelf
 - [The 48 Laws of Power](https://www.goodreads.com/en/book/show/1303)
 - [Introduction to Algorithms](https://www.goodreads.com/en/book/show/108986)
 - [Reality Transurfing](https://www.goodreads.com/en/book/show/23929658)
+- [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
 - [The Almanack of Naval Ravikant](https://www.goodreads.com/en/book/show/54898389)
 - [Computing Machinery and Intelligence](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf)
 - [Storm to Perform](https://www.goodreads.com/en/book/show/35681528)
