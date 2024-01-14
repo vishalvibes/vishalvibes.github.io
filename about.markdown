@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-<img src="https://media.licdn.com/dms/image/D4D03AQFrXZm7MQc6sw/profile-displayphoto-shrink_800_800/0/1683706456898?e=1703116800&v=beta&t=UpfoJuwt5h21EXwdXx8-V10sbm6OqaiA-C0XUG12Qrk" width='150px' style='margin-bottom:20px;'/>
+<img src="https://gravatar.com/userimage/112193893/b2ad78d9e7e06b7ac9487b0acaeb1f17.jpeg?size=256" width='150px' style='margin-bottom:20px;'/>
 
 Hey 👋,
 
