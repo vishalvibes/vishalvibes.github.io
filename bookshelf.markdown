@@ -29,6 +29,7 @@ permalink: /bookshelf
 - [Tao Te Ching](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)
 - [The Bed of Procrustes](https://www.goodreads.com/book/show/9402297-the-bed-of-procrustes)
 - [How to Do What You Love, Paul Graham - Blog](http://www.paulgraham.com/love.html)
+- [How to Move Beyond Gamification, Rahul Vohra - Video](https://www.youtube.com/watch?v=zaxAdRlyZQ8)
 - [Shrimad Bhagavad Gita](https://www.goodreads.com/en/book/show/18857357)
 - [The 48 Laws of Power](https://www.goodreads.com/en/book/show/1303)
 - [Introduction to Algorithms](https://www.goodreads.com/en/book/show/108986)
