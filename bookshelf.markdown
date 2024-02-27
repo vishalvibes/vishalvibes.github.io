@@ -33,6 +33,7 @@ permalink: /bookshelf
 - [Shrimad Bhagavad Gita](https://www.goodreads.com/en/book/show/18857357)
 - [The 48 Laws of Power](https://www.goodreads.com/en/book/show/1303)
 - [The Timeless Way of Building](https://www.goodreads.com/en/book/show/106728)
+- [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 - [Introduction to Algorithms](https://www.goodreads.com/en/book/show/108986)
 - [Reality Transurfing](https://www.goodreads.com/en/book/show/23929658)
 - [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
