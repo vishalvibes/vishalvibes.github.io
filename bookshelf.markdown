@@ -64,3 +64,4 @@ permalink: /bookshelf
 - [Tools of Titans](https://www.goodreads.com/en/book/show/31823677)
 - [Mastery](https://www.goodreads.com/book/show/13589182-mastery)
 - [Chesterton's Fence - Article](https://fs.blog/chestertons-fence/)
+- [The Mom Test](https://www.goodreads.com/book/show/52283963-the-mom-test)
