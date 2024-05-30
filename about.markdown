@@ -15,6 +15,6 @@ Right after college, I went ahead to start India's First Developer Marketing Age
 
 I completed my graduation from [🇮🇳 Indian Institute of Information Technology Ranchi](https://iiitranchi.ac.in/) in 2022, where I spent most of my time contributing to open-source projects and participating in coding contests. For a short while, I worked at [Zeotap](https://zeotap.com/) as a Data Engineer Intern and learned a lot about startups.
 
-Currently, I am working on my new project, [Cheatsheet](cheatsheet.to). Which is like GitHub for People Facing teams.
+Currently, I am working on my new project, [Cheatsheet](https://cheatsheet.to). Which is like GitHub for People Facing teams.
 
 When I'm not building stuff, I am playing the piano or reading anything from poetry to quantum physics.
