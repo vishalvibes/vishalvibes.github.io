@@ -66,3 +66,4 @@ permalink: /bookshelf
 - [The Bitter Lesson - Article](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 - [Chesterton's Fence - Article](https://fs.blog/chestertons-fence/)
 - [The Mom Test](https://www.goodreads.com/book/show/52283963-the-mom-test)
+- [The Grug Brained Developer](https://grugbrain.dev/)
