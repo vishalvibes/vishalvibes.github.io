@@ -10,3 +10,4 @@ permalink: /papershelf
 - [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - [Computing Machinery and Intelligence](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf)
+- [Rockset Concepts, Design & Architecture](https://rockset.com/Rockset_Concepts_Design_Architecture.pdf)

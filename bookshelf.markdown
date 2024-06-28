@@ -66,4 +66,7 @@ permalink: /bookshelf
 - [The Bitter Lesson - Article](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 - [Chesterton's Fence - Article](https://fs.blog/chestertons-fence/)
 - [The Mom Test](https://www.goodreads.com/book/show/52283963-the-mom-test)
-- [The Grug Brained Developer](https://grugbrain.dev/)
+- [The Grug Brained Developer - Article](https://grugbrain.dev/)
+- [Design tips for developers - Article](https://paul.copplest.one/blog/design.html#creating-a-logo)
+- [Building Your Color Palette - Article](https://www.refactoringui.com/previews/building-your-color-palette)
+- [The Madness of Steve Jobs Told by Steve Wozniak](https://www.youtube.com/watch?v=R3OcY37GOAA)
