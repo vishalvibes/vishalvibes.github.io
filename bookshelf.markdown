@@ -70,3 +70,4 @@ permalink: /bookshelf
 - [Design tips for developers - Article](https://paul.copplest.one/blog/design.html#creating-a-logo)
 - [Building Your Color Palette - Article](https://www.refactoringui.com/previews/building-your-color-palette)
 - [The Madness of Steve Jobs Told by Steve Wozniak](https://www.youtube.com/watch?v=R3OcY37GOAA)
+- [उम्मीद - By Zakir Khan - Audio Series](https://www.youtube.com/watch?v=MX8kzwVDmw8&list=PL7wlLe1ChTbdU7Ez9Vts4bKWkchZEs4u8)
