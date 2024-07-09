@@ -72,3 +72,4 @@ permalink: /bookshelf
 - [The Madness of Steve Jobs Told by Steve Wozniak](https://www.youtube.com/watch?v=R3OcY37GOAA)
 - [उम्मीद - By Zakir Khan - Audio Series](https://www.youtube.com/watch?v=MX8kzwVDmw8&list=PL7wlLe1ChTbdU7Ez9Vts4bKWkchZEs4u8)
 - [Internet History, Technology, and Security from Dr. Chuck - Course](https://www.youtube.com/watch?v=47NRaBVxgVM)
+- [5 Mental Models to Think Like a Strategic Genius - Video](https://www.youtube.com/watch?v=S5SBcAuqCSg)
