@@ -73,3 +73,6 @@ permalink: /bookshelf
 - [उम्मीद - By Zakir Khan - Audio Series](https://www.youtube.com/watch?v=MX8kzwVDmw8&list=PL7wlLe1ChTbdU7Ez9Vts4bKWkchZEs4u8)
 - [Internet History, Technology, and Security from Dr. Chuck - Course](https://www.youtube.com/watch?v=47NRaBVxgVM)
 - Mental Models from Chess by Anthony Vicino [Part 1](https://www.youtube.com/watch?v=S5SBcAuqCSg) and [Part 2](https://www.youtube.com/watch?v=Pr8dGPOYHpU) - Video
+- [Refactoring Guru](https://refactoring.guru)
+- [The 38 Letters from J.D. Rockefeller to His Son](https://www.goodreads.com/book/show/55286154-the-38-letters-from-j-d-rockefeller-to-his-son)
+- [Seeking Wisdom: From Darwin to Munger](https://www.goodreads.com/book/show/1995421.Seeking_Wisdom)
