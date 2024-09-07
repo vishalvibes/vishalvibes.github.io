@@ -5,8 +5,6 @@ date: 2023-10-15 15:34:15 +0530
 categories: jekyll update
 ---
 
-# A Retrieval System Inspired by The Human Brain
-
 I was walking on the same street after an year, and it felt nostalgic.
 
 I've been lately working on a RAG application and hustling with retrieval techniques.
