@@ -8,6 +8,7 @@ permalink: /bookshelf
 ---
 
 - [Striking Thoughts: Bruce Lee's Wisdom for Daily Living](https://www.goodreads.com/en/book/show/259311)
+- [Tuesdays with Morrie](https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie)
 - [Quantum Mechanics: The Theoretical Minimum](https://www.goodreads.com/el/book/show/18210750-quantum-mechanics)
 - [Radical Candor](https://www.goodreads.com/en/book/show/29939161)
 - [Testing Business Ideas](https://www.goodreads.com/en/book/show/44056365)
