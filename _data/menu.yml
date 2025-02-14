@@ -21,6 +21,11 @@ entries:
       - title: Data engineering at <a href='https://zeotap.com/'>Zeotap</a>
       - title: Studied at <a href='https://iiitranchi.ac.in/'>IIIT Ranchi</a>
 
+  - title: Miscellaneous
+    entries:
+      - title: Poetry that I liked
+        url: poetry
+
   - title: Socials
     entries:
       - title: GitHub
