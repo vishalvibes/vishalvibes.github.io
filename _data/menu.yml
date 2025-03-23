@@ -7,7 +7,7 @@ entries:
       - title: Crafting the future of AI at <a href='https://nurix.ai'>Nurix</a>
       - title: Building <a href='https://harmony.framer.wiki'>Harmony</a> on nights & weekends
 
-
+<br>
   - title: Checkout
     entries:
       - title: Bookshelf
@@ -16,14 +16,14 @@ entries:
       - title: Papershelf
         url: papershelf
 
-
+<br>
   - title: Past Lives
     entries:
       - title: Co-founder at <a href='https://sarg.io'>Sarg</a>
       - title: Data engineering at <a href='https://zeotap.com/'>Zeotap</a>
       - title: Studied at <a href='https://iiitranchi.ac.in/'>IIIT Ranchi</a>
 
-
+<br>
   - title: Potpourri
     entries:
       - title: My writings
@@ -31,7 +31,7 @@ entries:
       - title: Poetry that I liked
         url: poetry
 
-
+<br>
   - title: Socials
     entries:
       - title: GitHub
