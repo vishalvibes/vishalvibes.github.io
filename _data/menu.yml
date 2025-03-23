@@ -21,7 +21,10 @@ entries:
       - title: Data engineering at <a href='https://zeotap.com/'>Zeotap</a>
       - title: Studied at <a href='https://iiitranchi.ac.in/'>IIIT Ranchi</a>
 
-  - title: Miscellaneous
+  - title: Potpourri
+    entries:
+      - title: My writings
+        url: writings
     entries:
       - title: Poetry that I liked
         url: poetry
@@ -32,3 +35,7 @@ entries:
         url: https://github.com/vishalvibes
       - title: X
         url: https://x.com/vishalvibes_
+      - title: Ig
+        url: https://www.instagram.com/vishalvibes_?igsh=eGFlaW1yanllY2Fm&utm_source=qr
+      
+        
