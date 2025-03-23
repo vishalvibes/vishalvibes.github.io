@@ -9,7 +9,7 @@ permalink: /writings
 
 ### Opening windows
 
-It was raining outside for a while now; I couldn't handle staying in anymore.<br>
+It was raining outside for a while; I couldn't handle staying in anymore.<br>
 
 But felt equally unwilling to leave work and go out in the weather.<br>
 
