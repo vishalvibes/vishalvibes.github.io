@@ -9,10 +9,10 @@ permalink: /writings
 
 ### Opening windows
 
-It was raining outside for a while; I couldn't handle staying in anymore.<br>
+It's raining outside for a while; I can't stay in anymore.<br>
 
-But felt equally unwilling to leave work and go out in the weather.<br>
+Yet feeling equally unwilling to leave work and go out in the weather.<br>
 
-Something clicked: I craved not escape but connection - to feel the moist, cool breeze on my face, witness fresh radiant leaflets, and breathe in the petrichor rising from the rain-kissed soil.<br>
+Something clicks: I crave not escape but connection - to feel the moist, cool breeze on my face, witness fresh radiant leaflets, and breathe in the petrichor rising from the rain-kissed soil.<br>
 
-I went ahead and opened my windows.<br>
+I go ahead and open my windows.<br>
