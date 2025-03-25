@@ -9,9 +9,11 @@ permalink: /writings
 
 ### Opening windows
 
-It's raining outside for a while; I can't stay in anymore.<br>
+It's been raining outside for a while.<br>
 
-Yet feeling equally unwilling to leave work and go out in the weather.<br>
+I can't stay in anymore.<br>
+
+Yet feeling equally unwilling to break my rhythm and leave my workdesk.<br>
 
 Something clicks: I crave not escape but connection - to feel the moist, cool breeze on my face, witness fresh radiant leaflets, and breathe in the petrichor rising from the rain-kissed soil.<br>
 
