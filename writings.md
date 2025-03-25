@@ -13,7 +13,7 @@ It's been raining outside for a while.<br>
 
 I can't stay in anymore.<br>
 
-Yet feeling equally unwilling to break my rhythm and leave my desk.<br>
+Yet feeling equally unwilling to break my rhythm, to leave my desk.<br>
 
 Something clicks: I crave not escape but connection - to feel the moist, cool breeze on my face, witness fresh radiant leaflets, and breathe in the petrichor rising from the rain-kissed soil.<br>
 
