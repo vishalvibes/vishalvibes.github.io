@@ -12,6 +12,7 @@ permalink: /bookshelf
 - [Quantum Mechanics: The Theoretical Minimum](https://www.goodreads.com/el/book/show/18210750-quantum-mechanics)
 - [Radical Candor](https://www.goodreads.com/en/book/show/29939161)
 - [Testing Business Ideas](https://www.goodreads.com/en/book/show/44056365)
+- [Siddhartha - Hermann Hesse](https://www.goodreads.com/book/show/52036.Siddhartha)
 - [The AI Revolution: The Road to Superintelligence - Blog](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 - [Intelligence and Learning - Course](https://www.youtube.com/watch?v=sPEEV8Xih20&list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX)
 - [Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/en/book/show/45303387)
