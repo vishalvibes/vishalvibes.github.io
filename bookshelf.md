@@ -61,7 +61,7 @@ permalink: /bookshelf
 - [Numberphile - YouTube Channel](https://www.youtube.com/@numberphile)
 - [Mental Models - Blog](https://fs.blog/mental-models/)
 - [What Do You Care What Other People Think?](https://www.goodreads.com/en/book/show/35167718)
-- [The Day You Became A Better Writer - Blog](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
+- [The Day You Became A Better Writer - Blog](https://sorfis.com/wp-content/uploads/2021/09/Writing-Tips-Scott-Adams-DFW-Sowin-compilation-Zweig.pdf)
 - [Letting Go: The Pathway of Surrender](https://www.goodreads.com/en/book/show/16098910)
 - [The Last Question - Short Story](https://users.ece.cmu.edu/~gamvrosi/thelastq.html)
 - [Tools of Titans](https://www.goodreads.com/en/book/show/31823677)
