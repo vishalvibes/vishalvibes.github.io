@@ -71,6 +71,7 @@ permalink: /bookshelf
 - [Chesterton's Fence - Article](https://fs.blog/chestertons-fence/)
 - [The Mom Test](https://www.goodreads.com/book/show/52283963-the-mom-test)
 - [The Grug Brained Developer - Article](https://grugbrain.dev/)
+- [Alex Hormozi on Just Doing More](https://www.youtube.com/watch?v=0lMn_-EXyhQ)
 - [Design tips for developers - Article](https://paul.copplest.one/blog/design.html#creating-a-logo)
 - [Building Your Color Palette - Article](https://www.refactoringui.com/previews/building-your-color-palette)
 - [The Madness of Steve Jobs Told by Steve Wozniak](https://www.youtube.com/watch?v=R3OcY37GOAA)
