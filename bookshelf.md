@@ -81,3 +81,4 @@ permalink: /bookshelf
 - [Refactoring Guru](https://refactoring.guru)
 - [The 38 Letters from J.D. Rockefeller to His Son](https://www.goodreads.com/book/show/55286154-the-38-letters-from-j-d-rockefeller-to-his-son)
 - [Seeking Wisdom: From Darwin to Munger](https://www.goodreads.com/book/show/1995421.Seeking_Wisdom)
+- [How To Be More Productive - Sam Ovens](https://www.youtube.com/watch?v=hSbHTT7UKvA)
