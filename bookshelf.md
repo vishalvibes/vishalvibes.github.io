@@ -12,6 +12,8 @@ permalink: /bookshelf
 - [Quantum Mechanics: The Theoretical Minimum](https://www.goodreads.com/el/book/show/18210750-quantum-mechanics)
 - [Radical Candor](https://www.goodreads.com/en/book/show/29939161)
 - [Testing Business Ideas](https://www.goodreads.com/en/book/show/44056365)
+- [How To Take Risk Like Rich People Do - Varun Mayya](https://www.youtube.com/watch?v=EWFn-RgxZ5M&list=PLSAVyiM48sqvzLBEbPqD8TZpfu5UyzO9t)
+- [The Dip - Seth Godin](https://goodreads.com/book/show/324748.The_Dip_A_Little_Book_That_Teaches_You_When_to_Quit__and_When_to_Stick_)
 - [The Fountainhead](https://www.goodreads.com/book/show/2122.The_Fountainhead)
 - [Chrome Comic](https://www.google.com/googlebooks/chrome/big_00.html)
 - [Siddhartha - Hermann Hesse](https://www.goodreads.com/book/show/52036.Siddhartha)
