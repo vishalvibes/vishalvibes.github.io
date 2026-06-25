@@ -4,7 +4,7 @@
 entries:
   - title: Info
     entries:
-      - title: Building <a href='https://getharmony.ai'>Harmony AI - The proactive AI executive assistant</a>
+      - title: Building <a href='https://getharmony.ai'>Harmony AI - The AI OS for Professional Services</a>
 
   - title: Checkout
     entries:
@@ -23,6 +23,8 @@ entries:
 
   - title: Potpourri
     entries:
+      - title: My Projects and Experiments
+        url: projects
       - title: My writings
         url: writings
       - title: Poetry that I liked
