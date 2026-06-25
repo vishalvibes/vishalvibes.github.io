@@ -10,11 +10,10 @@ permalink: /projects
 A running list of things I've built — products, side projects and experiments.
 
 - [Harmony AI](https://getharmony.ai) — The AI OS for Professional Services — 🚧 *building*
-- Cheatsheet — Email and message writer from templates — ❌ *quit*
-- FocusFairy — Selective distraction blocker for Chrome — ❌ *quit*
-- DevRelGPT — Blog writer for DevTools startups — ❌ *quit*
-- GigSo — Gig management for agencies — ❌ *quit*
-- Deliverly — Deliverable management for agencies — ❌ *quit*
+- Cheatsheet — AI email and message writer — ❌ *quit*
+- FocusFairy — Selective distraction blocker for Chrome — ❌ *quit due to self-destructive idea*
+- DevRelGPT — AI blog writer for DevTools startups — ✅ *paying customer, but quit — didn't believe in AI content*
+- GigSo / Deliverly — Gig management for agencies — ❌ *quit*
 - [Sarg](https://sarg.io) — Content creation for DevTools — ✅ *succeeded, yet shut down*
 - Sarg AI — Content generation workflow creator — ❌ *quit*
 - Dank Devs — Tooling for open source communities — ❌ *quit*
