@@ -86,3 +86,4 @@ permalink: /bookshelf
 - [How To Be More Productive - Sam Ovens](https://www.youtube.com/watch?v=hSbHTT7UKvA)
 - [Edwin Land](https://www.youtube.com/watch?v=NwH9RmUSmQE)
 - [Stages while studying philosophy](https://www.youtube.com/watch?v=7ghJylYsqGI)
+- [Ready-Fire-Aim - Ted Talk](https://www.ted.com/talks/neil_gershenfeld_ready_fire_aim_may_2023)
