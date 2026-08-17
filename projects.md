@@ -9,6 +9,7 @@ permalink: /projects
 
 A running list of things I've built — products, side projects and experiments.
 
+- [Yappy] - Cursor for building personal brand - 🚧 *building*
 - [Harmony AI](https://getharmony.ai) — The AI OS for Professional Services — 🚧 *building*
 - Cheatsheet — AI email and message writer — ❌ *quit*
 - FocusFairy — Selective distraction blocker for Chrome — ❌ *quit due to self-destructive idea*
