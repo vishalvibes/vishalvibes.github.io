@@ -12,3 +12,4 @@ permalink: /papershelf
 - [Computing Machinery and Intelligence](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf)
 - [Rockset Concepts, Design & Architecture](https://rockset.com/Rockset_Concepts_Design_Architecture.pdf)
 - [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+- [Kafka: a Distributed Messaging System for Log Processing](https://notes.stephenholiday.com/Kafka.pdf)
