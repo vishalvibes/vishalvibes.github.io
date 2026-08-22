@@ -87,3 +87,4 @@ permalink: /bookshelf
 - [Edwin Land](https://www.youtube.com/watch?v=NwH9RmUSmQE)
 - [Stages while studying philosophy](https://www.youtube.com/watch?v=7ghJylYsqGI)
 - [Ready-Fire-Aim - Ted Talk](https://www.ted.com/talks/neil_gershenfeld_ready_fire_aim_may_2023)
+- [Getting Real - Basecamp](https://basecamp.com/gettingreal/01.1-what-is-getting-real)
